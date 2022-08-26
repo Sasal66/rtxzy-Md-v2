@@ -3,10 +3,10 @@
 //『 Utama 』 //
 global.owner = ['6281321776496'] 
 global.mods = ['6281321776496'] 
-global.prems = ['6282xxxxxx'] 
+global.prems = ['6281321776496'] 
 
 //『 Info Owner 』 //
-global.nameowner = '⫹⫺ Owner'
+global.nameowner = 'ᴹᴿ᭄defα͢͢͢ή彡'
 global.numberowner = '6281321776496'
 global.instagram = 'https://www.instagram.com/defan_sugiarto'
 global.github = 'https://github.com/defan11'
@@ -16,8 +16,8 @@ global.gopay = ''
 
 //『 Info Bot 』//
 global.namebot = 'Mizuhara-Mdོ'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/GQpEwccHLPF2IkO3dZv8HC'
+global.web = 'https://www.instagram.com/defan_sugiarto' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //『 Tampilan Dan Lainnya 』//
@@ -40,7 +40,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'ᴹᴿ᭄defα͢͢͢ή彡'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
